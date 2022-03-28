@@ -1,0 +1,20 @@
+.TrendingCArd{
+    width: 45%;
+    height: 470px;
+    margin: 12.9px;
+ background-color: white;
+    border-radius: 25px;
+    padding: 25px;
+}
+.BrainhubCarousel__arrows{
+    margin-left:5px;
+    margin-right:5px;
+    background-color: white;
+  
+}
+.BrainhubCarousel__arrows span{
+    border-color:black !important;
+}
+.BrainhubCarousel__arrows:hover{
+    background-color: orange !important;
+}
